@@ -2,6 +2,14 @@
 
 Operation bot for Slack.
 
+## Testing
+
+Use [ngrok](https://ngrok.com/).
+
+```console
+$ ngrok http http://localhost:3000
+```
+
 ## License
 
 [MIT](LICENSE)
